@@ -1,0 +1,8 @@
+---
+applications:
+- name: "ac760-2-spring"
+  memory: 1024M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  env:
+    ATOMIST_TEAM: A9OO6I8R5
