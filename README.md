@@ -1,5 +1,5 @@
 # ac760-2-spring
-my new project
+my new project - spiffy
 
 Based on seed project `spring-team:spring-rest-seed`
 
